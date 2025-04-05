@@ -1,0 +1,15 @@
+Flask
+numpy
+pandas
+rdkit
+deepchem
+chembl-webresource-client
+requests
+sqlite3  # (Builtin, but sometimes required explicitly)
+matplotlib
+joblib
+pubchempy
+scikit-learn
+tqdm
+google-generativeai
+python-dotenv

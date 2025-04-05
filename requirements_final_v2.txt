@@ -1,0 +1,14 @@
+Flask
+numpy
+pandas
+deepchem
+rdkit
+matplotlib
+joblib
+scikit-learn
+tqdm
+pubchempy
+chembl_webresource_client
+google.generativeai
+python-dotenv
+tensorflow-cpu
